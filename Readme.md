@@ -3,10 +3,10 @@
 We have to represent the cases of Covid-19 in Spain on a map using d3js. The more cases there are in a community, the larger the circles.
 
 ## Initial Covid Representation in Spain
-![Initial covid map](./content/captura-covid-inicial.png"initial covid map")
+![map affected coronavirus](./content/captura-covid-inicial.png"initial covid map")
 
 ## Last 14 days Covid Representation in Spain
-![Last covid map](./content/captura-covid-final.png"lastcovid map")
+![map affected coronavirus](./content/captura-covid-final.png"lastcovid map")
 
 # Steps
 
